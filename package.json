@@ -1,5 +1,5 @@
 {
-  "name": "strip-html",
+  "name": "parse-html-to-text",
   "version": "1.0.0",
   "description": "Converts HTML to text -- strips tags and decodes entities",
   "main": "./lib/index.js",
